@@ -25,10 +25,10 @@ function Navbar() {
         <div className= {`links ${navState ? "show" : "hide"}`}>
             <ul>
                 <li>
-                    <a href="home">Home</a>
+                    <a href="Home">Home</a>
                 </li>
                 <li>
-                    <a href="map">Map</a>
+                    <a href="Map">Map</a>
                 </li>
                 <li>
                     <a href="about">About</a>
